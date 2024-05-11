@@ -1,0 +1,3 @@
+C:/Users/Misha/Desktop/PJATK/PassMan/cmake-build-debug/CMakeFiles/PassMan.dir
+C:/Users/Misha/Desktop/PJATK/PassMan/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Misha/Desktop/PJATK/PassMan/cmake-build-debug/CMakeFiles/rebuild_cache.dir

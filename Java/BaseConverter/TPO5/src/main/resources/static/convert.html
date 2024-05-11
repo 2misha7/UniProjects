@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Converter</title>
+    <link rel="stylesheet" href="stylesheets/converterStyles.css">
+</head>
+<body>
+<h1 class="converter-title">Converter</h1>
+<img src="images/calculator.png" alt="calc" class="calc-image">
+<div class="container">
+    <form action="/convert" method="post">
+        <label for="num">Number:</label>
+        <input type="text" name="num" id="num">
+        <label for="convertFrom">Initial Base:</label>
+        <input type="number" name="convertFrom" id="convertFrom">
+        <label for="convertTo">Final Base:</label>
+        <input type="number" name="convertTo" id="convertTo">
+        <button type="submit">Convert</button>
+    </form>
+</div>
+</body>
+</html>
+
+

@@ -1,0 +1,8 @@
+# ninja log v5
+15	1372	7076029594568036	CMakeFiles/PassMan.dir/Password.cpp.obj	737b0527bc2f2775
+1	419	7244456301567617	build.ninja	9b3121a4ff1e6dbf
+3	995	7076037923329302	CMakeFiles/PassMan.dir/main.cpp.obj	9ed8bc84e0a32eb9
+5	1816	7076041528814590	CMakeFiles/PassMan.dir/PasswordManager.cpp.obj	d6b294a208506580
+1817	2077	7076041531350632	PassMan.exe	4311c9713b1950a4
+8	806	7244456449210782	CMakeFiles/PassMan.dir/Password.cpp.obj	4c9e16f406369731
+1	883	7244456449987571	CMakeFiles/PassMan.dir/main.cpp.obj	8049bd388bd0c9df

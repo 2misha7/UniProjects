@@ -1,0 +1,81 @@
+body {
+    background-color: #808080;
+    font-family: Courier New, monospace;
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.time-section, .date-section, .year-section {
+    display: flex;
+    align-items: center;
+}
+
+.frame-block {
+    border: 4px solid #ffc000;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.frame {
+    color: #ffc000;
+    margin: 0;
+    font-size: 40px;
+    padding: 2px 5px;
+}
+.time-info h3, .date-info h3, .year-info h3 {
+    font-size: 40px;
+    margin-left: 40px;
+}
+
+.image {
+    width: 50px;
+    height: auto;
+    margin-left: 20px;
+}
+.year-image {
+    width: 120px;
+    height: auto;
+    margin-left: 20px;
+}
+.year{
+    color: black;
+    margin: 0;
+    font-size: 40px;
+    font-family: Courier New, monospace;
+    font-weight: bold;
+    margin-left: 10px;
+}
+.time-section {
+    margin-bottom: 20px;
+}
+
+.date-section {
+    margin-top: 20px;
+}
+.error-container {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #ffc000;
+    font-size: 30px;
+}
+.error-image {
+    width: 250px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    margin-top: 50px
+}
+.date-time{
+    color: black;
+    font-size: 30px;
+}
