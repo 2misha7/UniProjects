@@ -109,7 +109,7 @@ def k_means(k, data, centroids):
 
 
 if __name__ == '__main__':
-    data = read_data(r'C:\Users\Misha\Desktop\Kmeans\iris.data')
+    data = read_data(r'')
 
     clusters, centroids = k_means(3, data, pick_centroids(3, data))
     id = 1
